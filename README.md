@@ -60,9 +60,3 @@ Middle finger tip
 Middle finger joint
 
 If the middle finger points upward relative to the wrist, the gesture is detected and the flag starts hoisting.
-
-roject Structure
-gesture-flag-hoisting
-│
-├── main.py
-├── README.md
